@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rangamati",
+    "maxGroupSize": 8,
+    "ratings": 4.4
+  },
+  {
+    "name": "Sundarban",
+    "maxGroupSize": 8,
+    "ratings": 4.4
+  },
+  {
+    "name": "Cox's bazar",
+    "maxGroupSize": 8,
+    "ratings": 4.4
+  },
+  {
+    "name": "Bandarban",
+    "maxGroupSize": 8,
+    "ratings": 4.4
+  },
+  {
+    "name": "Ratargul",
+    "maxGroupSize": 8,
+    "ratings": 4.4
+  }
+]
